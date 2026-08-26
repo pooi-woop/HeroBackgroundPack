@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>pooiwoop.herobackgroundpack</packageId>
+  <name>环世界主页背景图包</name>
+  <author>PooiWoop</author>
+  <description>添加了一些背景进入背景池，每次进入游戏随机轮换显示。</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>
